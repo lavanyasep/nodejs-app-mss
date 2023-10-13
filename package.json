@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://13.233.162.85:9980/mithuntechnologies/repository/icicibanknoderepo/"
+    "registry": "http://3.6.37.188:9980/lavanya/repository/hdfcbanknoderepo/"
   },
   
   "scripts": {
